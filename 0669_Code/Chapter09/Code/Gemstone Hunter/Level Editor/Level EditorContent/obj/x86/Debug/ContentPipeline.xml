@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Pericles8.spritefont</Source>
+      <Name>Fonts\Pericles8</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Fonts\Pericles8.xnb</Output>
+      <Time>2010-08-17T12:36:46+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gem.png</Source>
+      <Name>Textures\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Gem.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlatformTiles.png</Source>
+      <Name>Textures\PlatformTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Gem.png</Source>
+      <Name>Textures\Sprites\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Gem.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterA\Die.png</Source>
+      <Name>Textures\Sprites\MonsterA\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterA\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterA\Run.png</Source>
+      <Name>Textures\Sprites\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterB\Die.png</Source>
+      <Name>Textures\Sprites\MonsterB\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterB\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterB\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterB\Run.png</Source>
+      <Name>Textures\Sprites\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterC\Die.png</Source>
+      <Name>Textures\Sprites\MonsterC\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterC\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterC\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterC\Run.png</Source>
+      <Name>Textures\Sprites\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterD\Die.png</Source>
+      <Name>Textures\Sprites\MonsterD\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterD\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterD\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterD\Run.png</Source>
+      <Name>Textures\Sprites\MonsterD\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Celebrate.png</Source>
+      <Name>Textures\Sprites\Player\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Die.png</Source>
+      <Name>Textures\Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Die.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Idle.png</Source>
+      <Name>Textures\Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Jump.png</Source>
+      <Name>Textures\Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Run.png</Source>
+      <Name>Textures\Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Run.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TitleScreen.png</Source>
+      <Name>Textures\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2010-08-17T12:37:20+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level EditorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level EditorContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-20T19:27:00.4572028+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

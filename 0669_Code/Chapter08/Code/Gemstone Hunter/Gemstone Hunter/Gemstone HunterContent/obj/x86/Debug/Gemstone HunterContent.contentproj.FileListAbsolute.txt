@@ -1,0 +1,3 @@
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Gemstone Hunter\Gemstone HunterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Gemstone Hunter\Gemstone HunterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Gemstone Hunter\Gemstone HunterContent\obj\x86\Debug\ResolveAssemblyReference.cache

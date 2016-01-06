@@ -1,0 +1,18 @@
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Tile Engine\bin\x86\Debug\Tile Engine.dll
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Tile Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Tile Engine\obj\x86\Debug\Tile Engine.dll
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Tile Engine\obj\x86\Debug\Tile Engine.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_09_CODE\Gemstone Hunter\Tile Engine\bin\x86\Debug\Tile Engine.dll
+J:\BookResources\BookChapters\For XNA 4.0\0669_09_CODE\Gemstone Hunter\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\BookResources\BookChapters\For XNA 4.0\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\BookResources\BookChapters\For XNA 4.0\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\Tile Engine.dll
+J:\BookResources\BookChapters\For XNA 4.0\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\Tile Engine.pdb
+C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Tile Engine\bin\x86\Debug\Tile Engine.dll
+C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Tile Engine\bin\x86\Debug\Tile Engine.pdb
+C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\Tile Engine.dll
+C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Tile Engine\obj\x86\Debug\Tile Engine.pdb

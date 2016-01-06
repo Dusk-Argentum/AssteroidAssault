@@ -1,0 +1,2 @@
+Content\Textures\SpriteSheet.xnb
+Content\Textures\TitleScreen.xnb

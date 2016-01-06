@@ -1,0 +1,3 @@
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot RampageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot RampageContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot RampageContent\obj\x86\Debug\ResolveAssemblyReference.cache

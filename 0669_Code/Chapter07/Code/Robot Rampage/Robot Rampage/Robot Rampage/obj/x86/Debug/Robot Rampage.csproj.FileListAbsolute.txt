@@ -1,0 +1,27 @@
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Robot Rampage.exe
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Robot Rampage.pdb
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Robot Rampage.exe
+c:\users\kurt\documents\visual studio 2010\Projects\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Robot Rampage.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Robot Rampage.exe
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Robot Rampage.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Robot Rampage.exe
+J:\BookResources\BookChapters\For XNA 4.0\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Robot Rampage.pdb
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Robot Rampage.exe
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\bin\x86\Debug\Robot Rampage.pdb
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Robot Rampage.exe
+C:\Users\Dayan Haymes\Desktop\0669_07_CODE\Robot Rampage\Robot Rampage\Robot Rampage\obj\x86\Debug\Robot Rampage.pdb

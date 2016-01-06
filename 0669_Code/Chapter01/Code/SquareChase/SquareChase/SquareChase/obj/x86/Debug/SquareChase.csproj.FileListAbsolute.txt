@@ -1,0 +1,21 @@
+c:\users\kurt\documents\visual studio 2010\Projects\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\SQUARE.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.exe
+c:\users\kurt\documents\visual studio 2010\Projects\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.pdb
+c:\users\kurt\documents\visual studio 2010\Projects\SquareChase\SquareChase\SquareChase\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2010\Projects\SquareChase\SquareChase\SquareChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kurt\documents\visual studio 2010\Projects\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.exe
+c:\users\kurt\documents\visual studio 2010\Projects\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.exe
+J:\BookResources\BookChapters\For XNA 4.0\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_01_CODE\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\SQUARE.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_01_CODE\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.exe
+J:\BookResources\BookChapters\For XNA 4.0\0669_01_CODE\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\BookResources\BookChapters\For XNA 4.0\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dayan Haymes\Desktop\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.exe
+C:\Users\Dayan Haymes\Desktop\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.pdb
+C:\Users\Dayan Haymes\Desktop\0669_01_CODE\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\SQUARE.xnb
+C:\Users\Dayan Haymes\Desktop\0669_01_CODE\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.exe
+C:\Users\Dayan Haymes\Desktop\0669_01_CODE\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.pdb
+C:\Users\Dayan Haymes\Desktop\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dayan Haymes\Desktop\0669_01_CODE\SquareChase\SquareChase\SquareChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

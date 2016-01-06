@@ -1,0 +1,102 @@
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Fonts\Pericles8.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Gem.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Gem.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Die.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Run.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Level Editor.exe
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Level Editor.pdb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Tile Engine.dll
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Tile Engine.pdb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level_Editor.MapEditor.resources
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level Editor.exe
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level Editor.pdb
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.png
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Fonts\Pericles8.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Gem.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Gem.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Die.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Run.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.png
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Level Editor.exe
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Level Editor.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Tile Engine.dll
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Tile Engine.pdb
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level_Editor.MapEditor.resources
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level Editor.exe
+J:\BookResources\BookChapters\For XNA 4.0\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level Editor.pdb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Fonts\Pericles8.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Gem.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Gem.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Celebrate.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Die.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\Sprites\Player\Run.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Content\Textures\PlatformTiles.png
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Level Editor.exe
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Level Editor.pdb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Tile Engine.dll
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\bin\x86\Debug\Tile Engine.pdb
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level_Editor.MapEditor.resources
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level Editor.exe
+C:\Users\Dayan Haymes\Desktop\0669_08_CODE\Gemstone Hunter\Level Editor\Level Editor\obj\x86\Debug\Level Editor.pdb
