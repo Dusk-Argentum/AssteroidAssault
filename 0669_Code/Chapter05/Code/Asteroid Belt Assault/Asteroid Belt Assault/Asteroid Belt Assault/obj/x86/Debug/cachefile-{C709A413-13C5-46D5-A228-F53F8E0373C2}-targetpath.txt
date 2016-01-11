@@ -1,5 +1,6 @@
 Content\Textures\SpriteSheet.xnb
 Content\Textures\TitleScreen.xnb
+Content\Textures\TARDIS.xnb
 Content\Sounds\Explosion1.xnb
 Content\Sounds\Explosion2.xnb
 Content\Sounds\Explosion3.xnb
