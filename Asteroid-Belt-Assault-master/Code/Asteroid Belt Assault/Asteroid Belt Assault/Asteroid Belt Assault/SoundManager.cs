@@ -22,6 +22,9 @@ namespace Asteroid_Belt_Assault
         private static Random rand = new Random();
 
         public static void Initialize(ContentManager content)
+
+        public void play(@"C:\users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt AssaultContent\Sounds\Star_Wars_Metal_Cover_-_Part_1.wav")
+
         {
             try
             {

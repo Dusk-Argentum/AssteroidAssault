@@ -8,3 +8,4 @@ Content\Sounds\Shot2.xnb
 Content\Sounds\Shot1.xnb
 Content\Fonts\Pericles14.xnb
 Content\Textures\DeathStar.xnb
+Content\Sounds\Star_Wars_Metal_Cover_-_Part_1.xnb
