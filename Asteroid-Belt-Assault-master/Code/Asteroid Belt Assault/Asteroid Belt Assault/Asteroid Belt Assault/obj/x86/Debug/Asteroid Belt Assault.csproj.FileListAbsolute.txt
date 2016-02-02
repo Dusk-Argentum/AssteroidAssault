@@ -104,3 +104,4 @@ C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Aster
 C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.pdb
 C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\DeathStar.xnb
 C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\obj\x86\Debug\Asteroid Belt Assault.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Star_Wars_Metal_Cover_-_Part_1.xnb

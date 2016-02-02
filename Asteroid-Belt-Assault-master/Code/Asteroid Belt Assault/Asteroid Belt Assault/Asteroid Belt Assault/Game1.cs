@@ -75,9 +75,11 @@ namespace Asteroid_Belt_Assault
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            deathStar = Content.Load<Sprite>(@"Textures\DeathStar");
+            
             titleScreen = Content.Load<Texture2D>(@"Textures\TitleScreen");
             spriteSheet = Content.Load<Texture2D>(@"Textures\spriteSheet");
+            deathStar = Content.Load<Texture2D>(@"Textures\deathStar");
+
 
             camera = new Camera(new Viewport(0, 0, this.Window.ClientBounds.Width, this.Window.ClientBounds.Height));
             camera.Origin = new Vector2(camera.ViewPort.Width / 2.0f, camera.ViewPort.Height);
@@ -287,11 +289,12 @@ namespace Asteroid_Belt_Assault
                 (gameState == GameStates.PlayerDead) ||
                 (gameState == GameStates.GameOver))
             {
+                
+                starField.Draw(spriteBatch);
                 spriteBatch.Draw(deathStar,
                     new Rectangle(0, 0, this.Window.ClientBounds.Width,
                         this.Window.ClientBounds.Height),
                         Color.White);
-                starField.Draw(spriteBatch);
                 asteroidManager.Draw(spriteBatch);
                 playerManager.Draw(spriteBatch);
                 enemyManager.Draw(spriteBatch);
