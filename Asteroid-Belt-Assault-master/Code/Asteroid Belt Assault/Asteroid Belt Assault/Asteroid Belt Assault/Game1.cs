@@ -25,6 +25,8 @@ namespace Asteroid_Belt_Assault
         Texture2D spriteSheet;
         Texture2D deathStar;
         Camera camera;
+        //sound 
+        Song song;
 
         StarField starField;
         AsteroidManager asteroidManager;
@@ -74,12 +76,14 @@ namespace Asteroid_Belt_Assault
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
-
             
             titleScreen = Content.Load<Texture2D>(@"Textures\TitleScreen");
             spriteSheet = Content.Load<Texture2D>(@"Textures\spriteSheet");
             deathStar = Content.Load<Texture2D>(@"Textures\deathStar");
 
+            song = Content.Load<Song>(@"Sounds\Rock");
+
+            MediaPlayer.Play(song);
 
             camera = new Camera(new Viewport(0, 0, this.Window.ClientBounds.Width, this.Window.ClientBounds.Height));
             camera.Origin = new Vector2(camera.ViewPort.Width / 2.0f, camera.ViewPort.Height);

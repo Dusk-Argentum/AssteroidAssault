@@ -8,7 +8,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\SpriteSheet.xnb</Output>
-      <Time>2016-02-02T10:18:32.6228-05:00</Time>
+      <Time>2016-02-04T10:27:31.646-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\TitleScreen.png</Source>
@@ -17,7 +17,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
-      <Time>2016-02-02T10:18:32.6768-05:00</Time>
+      <Time>2016-02-04T10:27:31.656-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Explosion1.wav</Source>
@@ -26,7 +26,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion1.xnb</Output>
-      <Time>2016-02-02T10:18:31.4928-05:00</Time>
+      <Time>2016-02-04T10:27:29.964-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Explosion2.wav</Source>
@@ -35,7 +35,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion2.xnb</Output>
-      <Time>2016-02-02T10:18:31.4938-05:00</Time>
+      <Time>2016-02-04T10:27:29.966-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Explosion3.wav</Source>
@@ -44,7 +44,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion3.xnb</Output>
-      <Time>2016-02-02T10:18:31.4948-05:00</Time>
+      <Time>2016-02-04T10:27:29.967-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Explosion4.wav</Source>
@@ -53,7 +53,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Explosion4.xnb</Output>
-      <Time>2016-02-02T10:18:31.4958-05:00</Time>
+      <Time>2016-02-04T10:27:29.969-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Shot2.wav</Source>
@@ -62,7 +62,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot2.xnb</Output>
-      <Time>2016-02-02T10:18:31.4978-05:00</Time>
+      <Time>2016-02-04T10:27:29.97-05:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Shot1.wav</Source>
@@ -71,7 +71,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Shot1.xnb</Output>
-      <Time>2016-02-02T10:18:31.4978-05:00</Time>
+      <Time>2016-02-04T10:27:29.97-05:00</Time>
     </Item>
     <Item>
       <Source>Fonts\Pericles14.spritefont</Source>
@@ -80,7 +80,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Fonts\Pericles14.xnb</Output>
-      <Time>2016-02-02T10:18:31.4918-05:00</Time>
+      <Time>2016-02-04T10:27:29.962-05:00</Time>
     </Item>
     <Item>
       <Source>Textures\DeathStar.png</Source>
@@ -89,16 +89,17 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Textures\DeathStar.xnb</Output>
-      <Time>2016-02-02T10:18:32.6218-05:00</Time>
+      <Time>2016-02-04T10:54:05.77-05:00</Time>
     </Item>
     <Item>
-      <Source>Sounds\Star_Wars_Metal_Cover_-_Part_1.wav</Source>
-      <Name>Sounds\Star_Wars_Metal_Cover_-_Part_1</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
+      <Source>Sounds\Rock.mp3</Source>
+      <Name>Sounds\Rock</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Star_Wars_Metal_Cover_-_Part_1.xnb</Output>
-      <Time>2016-02-02T10:18:32.5698-05:00</Time>
+      <Output>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Rock.xnb</Output>
+      <Extra>C:\Users\eahscs\Desktop\AssteroidAssault\Asteroid-Belt-Assault-master\Code\Asteroid Belt Assault\Asteroid Belt Assault\Asteroid Belt Assault\bin\x86\Debug\Content\Sounds\Rock.wma</Extra>
+      <Time>2016-02-04T11:33:53.746-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
