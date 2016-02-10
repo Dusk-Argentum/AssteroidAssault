@@ -15,7 +15,7 @@ namespace Asteroid_Belt_Assault
         private Rectangle playerAreaLimit;
 
         public long PlayerScore = 0;
-        public int LivesRemaining = 3;
+        public int LivesRemaining = 5;
         public bool Destroyed = false;
 
         private Vector2 gunOffset = new Vector2(25, 10);
@@ -29,7 +29,7 @@ namespace Asteroid_Belt_Assault
             Rectangle initialFrame,
             int frameCount,
             Rectangle screenBounds)
-        {
+           {
             playerSprite = new Sprite(
                 new Vector2(500, 500),
                 texture,
@@ -79,22 +79,22 @@ namespace Asteroid_Belt_Assault
         {
             if (keyState.IsKeyDown(Keys.Up))
             {
-                playerSprite.Velocity += new Vector2(0, -1);
+                playerSprite.Velocity += new Vector2(0, -2);
             }
 
             if (keyState.IsKeyDown(Keys.Down))
             {
-                playerSprite.Velocity += new Vector2(0, 1);
+                playerSprite.Velocity += new Vector2(0, 2);
             }
 
             if (keyState.IsKeyDown(Keys.Left))
             {
-                playerSprite.Velocity += new Vector2(-1, 0);
+                playerSprite.Velocity += new Vector2(-2, 0);
             }
 
             if (keyState.IsKeyDown(Keys.Right))
             {
-                playerSprite.Velocity += new Vector2(1, 0);
+                playerSprite.Velocity += new Vector2(2, 0);
             }
 
             if (keyState.IsKeyDown(Keys.Space))

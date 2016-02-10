@@ -93,7 +93,7 @@ namespace Asteroid_Belt_Assault
                 new Rectangle(14, 286, 6, 32),
                     1,
                     2,
-                    150f,
+                    1150f,
                     screenBounds);
 
             setUpWaypoints();

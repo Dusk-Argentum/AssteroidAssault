@@ -43,7 +43,7 @@ namespace Asteroid_Belt_Assault
         private float titleScreenTimer = 0f;
         private float titleScreenDelayTime = 1f;
 
-        private int playerStartingLives = 3;
+        private int playerStartingLives = 5;
         private Vector2 playerStartLocation = new Vector2(390, 550);
         private Vector2 scoreLocation = new Vector2(20, 10);
         private Vector2 livesLocation = new Vector2(20, 25);
@@ -105,7 +105,7 @@ namespace Asteroid_Belt_Assault
                 10,
                 spriteSheet,
                 new Rectangle(0, 0, 50, 50),
-                20,
+                14,
                 this.Window.ClientBounds.Width,
                 this.Window.ClientBounds.Height);
 
